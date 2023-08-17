@@ -1,5 +1,3 @@
-Aqui está um README básico para o código que você compartilhou, explicando sua funcionalidade e como executá-lo:
-
 # Conversor de Moedas
 
 Um aplicativo simples de conversão de moedas desenvolvido em Flutter.
